@@ -1,0 +1,81 @@
+id	title	app_response	interview	offer	personal_contact
+1	PhD Residency	Lost to the Abyss		No	Yes
+2	Computational Biologist II	Automated Reject		No	Yes
+3	Intern	Lost to the Abyss		No	Yes
+4	Data Science Intern	Lost to the Abyss		No	Yes
+5	PhD Residency - Planetary Health	Lost to the Abyss		No	Yes
+6	Data Scientist 2	Lost to the Abyss		No	No
+7	PhD Residency - Mineral	Lost to the Abyss		No	No
+8	Software Engineer III ML	Lost to the Abyss		No	No
+9	Data Scientist, Viral Genomics	Automated Reject		No	No
+10	Bio Software Engineer	Automated Reject		No	Yes
+11	Senior Data Scientist 	Automated Reject		No	Yes
+12	Postdoc - Machine Learning	Lost to the Abyss		No	Yes
+13	Software Engineer	Human Reject		No	Yes
+14	Machine Learning Engineer	Interview Request	Initial Screen	No	Yes
+15	CompBio/ML Residency	Lost to the Abyss		No	Yes
+16	Data Scientist 2	Lost to the Abyss		No	No
+17	Data Science Analyst II	Automated Reject		No	No
+18	Research Scientist	Lost to the Abyss		No	No
+19	Applied Scientist (Job ID: 2353415)	Automated Reject		No	No
+20	Senior Data Scientist 	Lost to the Abyss		No	No
+21	General App	Lost to the Abyss		No	No
+22	Data Scientist ML Computational Biology	Lost to the Abyss		No	No
+23	Molecular Data Scientist	Automated Reject		No	No
+24	Computational Biologist	Lost to the Abyss		No	Yes
+25	Research Associate	Lost to the Abyss		No	Yes
+26	Software Engineer	Automated Reject		No	No
+27	Data Scientist	Lost to the Abyss		No	Yes
+28	GeoBioTech Fellow	Interview Request	Meet Team	No	Yes
+29	Climate Strategy Associate	Lost to the Abyss		No	Yes
+30	Env Risk and Compliance Program Manager	Automated Reject		No	No
+31	Computational Scientist 3	Lost to the Abyss		No	No
+32	Data Scientist	Automated Reject		No	No
+33	Research Scientist, Genomics	Automated Reject		No	No
+34	Senior Bioinformatics Engineer	Lost to the Abyss		No	Yes
+35	Postdoc - AI	Lost to the Abyss		No	No
+36	Data Scientist - Integrated omics	Automated Reject		No	No
+37	Data Scientist - Azure	Interview Request		Withdrew	No
+38	Bioinformatics Data Analyst	Lost to the Abyss		No	No
+39	Applied Science - ML	Automated Reject		No	No
+40	Carbon Quantification Analyst	Interview Request	Meet Team	No	Yes
+41	Roadmapping Scientist - Natural Systems Response	Lost to the Abyss		No	Yes
+42	Bioinformatician II	Lost to the Abyss		No	Yes
+43	Data Scientist	Lost to the Abyss		No	No
+44	Data Analyst	Lost to the Abyss		No	Yes
+45	General App	Lost to the Abyss		No	Yes
+46	General App	Lost to the Abyss		No	Yes
+47	General App	Lost to the Abyss		No	No
+48	Oceanographer	Automated Reject		No	No
+49	Data Scientist	Automated Reject		No	No
+50	Software Engineer III	Lost to the Abyss		No	Yes
+51	Data Scientist II	Lost to the Abyss		No	Yes
+52	Data Scientist	Interview Request	Initial Screen	No	Yes
+53	Founding Computational Biologist	Interview Request	Initial Screen	No	Yes
+54	Data Scientist	Interview Request	Job Talk	No	Yes
+55	Data Analyst	Automated Reject		No	No
+56	Carbon Accounting Specialist	Human Reject		No	Yes
+57	Carbon Data Analyst	Automated Reject		No	No
+58	Energy Analyst	Automated Reject		No	No
+59	General App	Interview Request	Initial Screen	No	No
+60	Data Scientist	Lost to the Abyss		No	No
+61	General App (updated post grad)	Lost to the Abyss		No	Yes
+62	Research Associate	Interview Request	Initial Screen	No	Yes
+63	Sustainability Scientist	Automated Reject		No	Yes
+64	Computational Biologist - Microbio (shifted from app to Bioinformatics Engineer)	Interview Request	Meet Team	No	No
+65	SynBio Solutions Engineer	Lost to the Abyss		No	Yes
+66	General App	Lost to the Abyss		No	No
+67	Software Engineer (Bioinformatics) --> Systems Bio RA	Interview Request	Job Talk	Yes	Yes
+68	Program Manager - Sustainability Operations	Lost to the Abyss		No	No
+69	Data Scientist, Bioinformatics	Lost to the Abyss		No	No
+70	Associate, New Venture Creation (Climate)	Lost to the Abyss		No	No
+71	Data Scientist	Human Reject		No	Yes
+72	Product Manager - Life Science project	Automated Reject		No	Yes
+73	Data Scientist	Lost to the Abyss		No	Yes
+74	Software Engineer	Interview Request		Withdrew	Yes
+75	ML Researcher	Lost to the Abyss		No	Yes
+76	ML/AI Engineer - RNA/DNA Design	Interview Request	Job Talk	Yes	Yes
+77	Research Scientist - Sustainability	Lost to the Abyss		No	No
+78	Bioinformatician	Interview Request	Initial Screen	Withdrew	Yes
+79	Data Scientist	Interview Request		Withdrew	No
+80	Data Scientist	Automated Reject		No	Yes

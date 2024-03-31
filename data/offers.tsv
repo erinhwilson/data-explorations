@@ -1,0 +1,4 @@
+Date	Sector	Real	Accept	Sector2
+2023-08-11	CD	False	False	Climate
+2023-11-09	BCD	True	False	Bio + Climate
+2023-11-10	BCD	True	True	Bio + Climate
